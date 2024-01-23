@@ -2,8 +2,8 @@
 # Magang Bayucaraka 2024 - ROS2
 
 **Identitas Peserta**\
-Nama    : \
-NRP     : 
+Nama    : Muhammad Risyad Himawan Putra\
+NRP     : 5025231205
 
 Pengumpulan tugas dilakukan dengan cara seperti berikut:
 
